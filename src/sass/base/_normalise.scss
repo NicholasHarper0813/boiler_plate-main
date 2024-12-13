@@ -9,19 +9,22 @@ main,
 menu,
 nav,
 section,
-summary {
+summary 
+{
 	display: block;
 }
 
 audio,
 canvas,
 progress,
-video {
+video 
+{
 	display: inline-block;
 	vertical-align: baseline;
 }
 
-audio:not([controls]) {
+audio:not([controls]) 
+{
 	display: none;
 	height: 0;
 }
