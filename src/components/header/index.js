@@ -1,12 +1,3 @@
-/**
- * Header Component.
- *
- * @package react-app-boilerplate
- */
-
-/**
- * Header
- */
 const Header = () => {
 	return <h1>Header</h1>;
 };
