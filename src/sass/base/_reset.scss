@@ -5,13 +5,15 @@
 	box-sizing: border-box;
 }
 
-a {
+a 
+{
 	text-decoration: none;
 	color: inherit;
 	cursor: pointer;
 }
 
-button {
+button 
+{
 	background-color: transparent;
 	color: inherit;
 	border-width: 0;
@@ -19,37 +21,44 @@ button {
 	cursor: pointer;
 }
 
-figure {
+figure 
+{
 	margin: 0;
 }
 
-input::-moz-focus-inner {
+input::-moz-focus-inner 
+{
 	border: 0;
 	padding: 0;
 	margin: 0;
 }
 
-ul, ol, dd {
+ul, ol, dd
+{
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 
+{
 	margin: 0;
 	font-size: inherit;
 	font-weight: inherit;
 }
 
-p {
+p 
+{
 	margin: 0;
 }
 
-cite {
+cite 
+{
 	font-style: normal;
 }
 
-fieldset {
+fieldset
+{
 	border-width: 0;
 	padding: 0;
 	margin: 0;
