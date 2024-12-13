@@ -1,7 +1,7 @@
-/*** box sizing border-box for all elements ***/
 *,
 *::before,
-*::after {
+*::after 
+{
 	box-sizing: border-box;
 }
 
